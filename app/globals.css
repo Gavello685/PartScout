@@ -187,3 +187,27 @@ h3 {
 .error-text {
   color: #b91c1c;
 }
+
+.hint-text {
+  color: #475569;
+  font-size: 0.9rem;
+}
+
+.hint-text a {
+  color: #1d4ed8;
+}
+
+.sample-csv {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  margin: 0.5rem 0 0;
+  overflow-x: auto;
+  padding: 0.75rem;
+}
+
+.row-errors {
+  margin: 0;
+  padding-left: 1rem;
+}
