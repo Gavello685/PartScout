@@ -126,3 +126,45 @@ p {
   color: #1d4ed8;
   text-decoration: none;
 }
+
+.mock-hints ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.mock-hints a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+.search-results {
+  margin-top: 1rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.5rem;
+  border-top: 1px solid #e2e8f0;
+  font-size: 0.875rem;
+}
+
+th {
+  font-weight: 600;
+  color: #334155;
+}
+
+h3 {
+  margin: 0;
+}
