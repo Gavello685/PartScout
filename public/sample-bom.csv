@@ -1,0 +1,5 @@
+part_number,quantity,description
+NE555P,10,Timer IC for pulse generation
+LM358,6,Dual op amp
+ATMEGA328P,2,Main microcontroller
+ESP32-WROOM-32,3,Wi-Fi module
