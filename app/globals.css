@@ -168,3 +168,22 @@ th {
 h3 {
   margin: 0;
 }
+
+.link-button {
+  border: 0;
+  background: transparent;
+  color: #1d4ed8;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  font: inherit;
+}
+
+.button:disabled {
+  opacity: 0.75;
+  cursor: wait;
+}
+
+.error-text {
+  color: #b91c1c;
+}
